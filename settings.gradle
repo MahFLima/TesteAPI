@@ -1,0 +1,2 @@
+rootProject.name='TesteAPI'
+include ':app'
